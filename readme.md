@@ -33,7 +33,7 @@ Here a some ideas:
 
 ## Create Your Data
 
-Your data should include an array of objects.
+Your data should include an array of objects that will be nested in the curly braces in the `.json` file.
 
 Each object in the array should contain:
 
