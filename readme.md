@@ -2,7 +2,7 @@
 
 <img src="digital.png" height="500" width="500">
 
-You are going to seed your JSON Server with data that you would be able to consume in a frontend application.
+You are going to seed your JSON Server with data that you would be able to consume using CRUD functionality in a fullstack application.
 
 ## Getting Started
 
