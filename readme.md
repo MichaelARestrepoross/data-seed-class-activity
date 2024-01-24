@@ -6,7 +6,9 @@ You are going to seed your JSON Server with data that you would be able to consu
 
 ## Getting Started
 
-`fork` and `clone` this repository
+1. `fork` and `clone` this repository
+2. `npm install`
+3. `npm run dev` and your server should run on localhost 50001
 
 ## Choose a Subject
 
