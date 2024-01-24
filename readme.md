@@ -37,11 +37,11 @@ Your data should include an array of objects.
 
 Each object in the array should contain:
 
-    - an id with the data type of string
-    - a key with a value data type of array
-    - a key with a value data type of object
-    - a key that is a string
-    - any other keys of your choosing
+- an id with the data type of string
+- a key with a value data type of array
+- a key with a value data type of object
+- a key that is a string
+- any other keys of your choosing
 
 Possible ways of creating data are:
 
