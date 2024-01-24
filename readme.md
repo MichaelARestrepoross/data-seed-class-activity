@@ -1,4 +1,4 @@
-# Data Dump Class Activity
+# Data Seed Class Activity
 
 <img src="digital.png" height="500" width="500">
 
