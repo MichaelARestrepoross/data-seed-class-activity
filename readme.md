@@ -74,6 +74,12 @@ Also, add your data to the originalData.json file. This step is crucial for rese
 
 Deploy your server on render.com and test in either the Browser or Postman using the `localhost:5001/api/<your json key name>` endpoint.
 
+## Experiment
+
+Using the [JSON Server Documentation](https://github.com/typicode/json-server) and Postman, experiment with making different types of HTTP Requests. GET, PUT, POST, DELETE
+
+You will be able to make these same types of request in your React application using `fetch`
+
 ## Completion
 
 Make a pull request to this parent repo with your repo results
