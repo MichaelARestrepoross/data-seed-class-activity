@@ -72,5 +72,11 @@
       },
       "description": "Gentle Cockatiel bird with a melodious tune, featuring yellow and gray plumage."
     }
+  ],
+  "dogs":[
+    {
+        "id":"22",
+        "name":"dog1"
+    }
   ]
 }
