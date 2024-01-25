@@ -79,7 +79,3 @@ Deploy your server on render.com and test in either the Browser or Postman using
 Using the [JSON Server Documentation](https://github.com/typicode/json-server) and Postman, experiment with making different types of HTTP Requests. GET, PUT, POST, DELETE
 
 You will be able to make these same types of requests in your React application using `fetch`
-
-## Completion
-
-Make a pull request to this parent repo with your repo results
